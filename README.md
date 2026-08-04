@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0088-merge-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
