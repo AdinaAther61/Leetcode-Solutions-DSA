@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/AdinaAther61/Leetcode-Solutions-DSA/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
