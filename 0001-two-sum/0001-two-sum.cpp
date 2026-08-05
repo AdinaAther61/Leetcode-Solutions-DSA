@@ -3,13 +3,13 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n = nums.size();
         
-        // Step 1: value aur original index ko pair mein store karo
+        // Step 1: 
         vector<pair<int, int>> valIndex(n);
         for (int i = 0; i < n; i++) {
             valIndex[i] = {nums[i], i};
         }
         
-        // Step 2: value ke hisaab se sort karo (pair khud value par sort hota hai)
+        // Step 2: 
         sort(valIndex.begin(), valIndex.end());
         
         // Step 3: two pointer approach
@@ -21,13 +21,13 @@ public:
                 return {valIndex[left].second, valIndex[right].second};
             }
             else if (sum < target) {
-                left++;   // sum chhota hai, thoda bada number try karo
+                left++;   // sum 
             }
             else {
-                right--;  // sum bada hai, thoda chhota number try karo
+                right--;  
             }
         }
         
-        return {}; // agar koi pair na mile
+        return {}; // if no pair is found than return
     }
 };
