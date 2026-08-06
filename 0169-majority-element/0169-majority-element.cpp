@@ -1,3 +1,4 @@
+//moore-vooting algorithm
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
