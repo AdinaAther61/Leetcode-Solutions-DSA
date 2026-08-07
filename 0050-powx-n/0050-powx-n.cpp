@@ -1,7 +1,7 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long N = n;  // int overflow se bachne ke liye (n = -2147483648 case)
+        long long N = n;  // long long to prevent from overflowing
         
         if (N < 0) {
             x = 1 / x;
@@ -10,10 +10,10 @@ public:
         
         double result = 1;
         while (N > 0) {
-            if (N % 2 == 1) {       // agar N odd hai
+            if (N % 2 == 1) {      
                 result = result * x;
                 N--;
-            } else {                 // agar N even hai
+            } else {              
                 x = x * x;
                 N = N / 2;
             }
